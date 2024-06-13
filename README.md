@@ -1,4 +1,7 @@
-- 🙌 Fundador/CEO de @Storysfeed, y @Hummanes
-- 💡Desarrollador Web Full Stack [Front End/Back End]
-- 📚 Dispuesto a colaborar con Desarolladores, StartUps, y Empresas de tecnologia.
-- 🪐 Mi Suite https://bit.ly/crissamman
+<section>
+            <h2> Sobre mi </h2>
+            <ul> 🕊️Creo en Dios</ul>
+            <ul> 🙌 Fundador de @Storysfeed / @Hummanes </ul>
+            <ul> 💡Full Stack Web Developer </ul>
+            <ul> 📚 Estudiante de Administración de Empresas </ul>
+</section>
