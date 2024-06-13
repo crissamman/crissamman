@@ -4,4 +4,8 @@
             <ul> 🙌 Fundador de @Storysfeed / @Hummanes </ul>
             <ul> 💡Full Stack Web Developer </ul>
             <ul> 📚 Estudiante de Administración de Empresas </ul>
+            .info ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
 </section>
