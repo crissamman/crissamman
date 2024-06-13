@@ -1,5 +1,5 @@
 - 🙌 Fundador/CEO de @Storysfeed, y @Hummanes
-- 💡Desarrollador web Full Stack [Front End/Back End]
+- 💡Desarrollador Web Full Stack [Front End/Back End]
 - 💞️ Estoy buscando colaborar con otros Desarolladores, StartUps, y Empresas de tecnologia.
 - 📫 Mis enlances
 - https://linktr.ee/crissamman
